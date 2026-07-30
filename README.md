@@ -20,7 +20,7 @@ Any static server works, e.g.: `python3 -m http.server` and then open http://loc
 | `index.css` | Styles specific to `index.html` |
 | `404.css` | Styles specific to `404.html` |
 | `script.js` | Mobile burger-menu toggle |
-| `photos-2023/`, `photos-2024/`, `photos-2025/` | Gallery images |
+| `photos-2023/` … `photos-2026/` | Gallery images |
 | `rules.pdf`, `how-to-submit.pdf`, `Sponsorship Pkg 2026.pdf` | Linked documents |
 | `centerline.png`, `windsor.png` | Sponsor logos |
 
@@ -38,7 +38,4 @@ Everything is hand-editable in `index.html`:
   matching `photos-YYYY/` folder.
 - **Contact email** - the footer.
 
-### To do
-
-- Add 2026 photos + contest link.
 </font>
